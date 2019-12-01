@@ -1,1 +1,2 @@
 gaoqing is the author of the file.
+Creating a new branch is quick & simple.
